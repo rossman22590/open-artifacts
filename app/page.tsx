@@ -167,7 +167,7 @@ const CTABar = () => (
         target="_blank"
         rel="noopener noreferrer"
       >
-        <Button variant="outline" size="lg" className="w-full">
+        {/* <Button variant="outline" size="lg" className="w-full">
           <Image
             src="/github.svg"
             alt="GitHub"
@@ -176,7 +176,7 @@ const CTABar = () => (
             className="mr-2"
           />
           View on GitHub
-        </Button>
+        </Button> */}
       </a>
     </div>
   </div>

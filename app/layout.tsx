@@ -14,7 +14,7 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Open Artifacts",
+  title: "AI Tutor Artifacts",
   description: "Create and Share Artifacts with Claude and other models",
 };
 
